@@ -1,5 +1,5 @@
-#Behaviour & Mood Modelling for Complex Care
-#Overview
+## Behaviour & Mood Modelling for Complex Care
+# Overview
 This project is a full-stack system for logging, analysing, and visualising the behavioural and medical patterns of my aunt, who has complex special needs and highly fluctuating mood states. The aim is to give my family – especially my grandma, her primary caregiver – a simple, reliable tool to capture day-to-day information, then use statistical analysis and machine learning to understand what stabilises her and what triggers difficult days.
 Building this system is also part of my own development as a software engineer. I’m treating this as a real applied learning project to build skills across the stack:
 Backend fundamentals (APIs, authentication, CRUD operations, data validation)
